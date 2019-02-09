@@ -5,7 +5,7 @@ Hi
 Most of my code is in *private* repos. 
 
 However, the public repos are in this 
-"[organization](https://github.com/og-pr)" and all the gists are [here](https://gist.github.com/ottograjeda/).
+[organization](https://github.com/og-pr) and all the gists are [here](https://gist.github.com/ottograjeda/).
 
 --  
 Otto
