@@ -2,6 +2,7 @@
 
 Hi
 
+You can see my portfolio [here](https://grajeda.com/portfolio/).
 Most of my code is in private repos ; on/off GitHub.
 
 If you are logged into GitHub, you will see my [public repos](https://github.com/og-pr).   
