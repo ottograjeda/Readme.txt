@@ -2,12 +2,10 @@
 
 Hi
 
-You can see my portfolio [here](https://grajeda.com/portfolio/).   
 Most of my code is in private repos ; on/off GitHub.
 
-If you are logged into GitHub, you will see my [public repos](https://github.com/og-pr).   
-If not, you can click on this [organization](https://github.com/og-pr) to see public code    
-or click [here](https://gist.github.com/ottograjeda/) to see my public gists.   
+If you are logged into GitHub, you should be able to see my [public repos](https://github.com/ottograjeda/).   
+If not, you can see my portfolio [here](https://grajeda.com/portfolio/) or click [here](https://gist.github.com/ottograjeda/) to see my public gists.   
 
 --   
 Otto
