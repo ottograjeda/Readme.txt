@@ -1,5 +1,7 @@
 
-Sort order: Alphanumeric
+GitHub does not provide a summary view for repos, so this is a table for that. Sort order: Alphanumeric.
+
+
 | Name | Description | Tags |
 | --- | --- | --- |
 | [RandomImage](https://github.com/ottograjeda/t-522-RandomImage) | Random Image app for Android, iOS, & Web with simple API. | React, React-Native, iOS, API |
