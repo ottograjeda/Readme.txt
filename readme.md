@@ -12,3 +12,11 @@ Thanks for reading!
 
 --   
 Otto
+
+
+PS
+
+Most of my code is in *private* repos ; on/off GitHub.  
+The above repos & gists are made public to show  
+some of the lessons learned while working for   
+clients.   
