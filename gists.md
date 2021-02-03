@@ -20,4 +20,5 @@ GitHub does not provide a summary view for gists, so this is a table for that. S
 | [QuizBank.html](https://gist.github.com/ottograjeda/b5b182c00f70861ef1e630dda3d64c4d) | HTML file for QuizBank. | HTML, JavaScript | ... |
 | [RandomImage.gas](https://gist.github.com/ottograjeda/a908698932117384e49dae042fb472a0) | GAS file for RandomImage.  | GAS | ... |
 | [RandomImage.html](https://gist.github.com/ottograjeda/feb0ecb47c5ecdbb35fa14146ad38530) | HTML file for RandomImage.  | HTML, JavaScript | ... |
+| [ResidentialScheduler](https://docs.google.com/document/d/1vKKft3sw9fAChrOWaxoaJ1k85iPdk4dC42IEydMzuEY/) | Schedule Work via Spreadsheet to Calendar  | Calendar, GAS, JavaScript, Spreadsheet | [link](https://grajeda.com/short-video/DEMO_D_residential_scheduler-tool.gif) |
 | [SalesFunnel](https://docs.google.com/document/d/1wByY0vFCeQv6Fem5VF2TMac6FI3aah22xRAI01NlJTA/) | Internal Sales tool to track Leads  | GAS, JavaScript, Spreadsheet Sidebar | [link](https://grajeda.com/short-video/DEMO_A_internal-sales-tool.gif) |
