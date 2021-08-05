@@ -1,4 +1,4 @@
-<h4>JavaScritp & Google Apps Script Gists (aka GAS)</h4>	
+<h4>Public Gists: JavaScritp & Google Apps Script Gists (aka GAS)</h4>	
 
 GitHub does not provide a summary view for gists, so this is a table for that. Sort order: Alphanumeric.
 | Name | Description | Tags | Video |
