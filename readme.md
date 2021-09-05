@@ -19,3 +19,5 @@ Most of my code is in *private* repos ; on/off GitHub.
 The above repos & gists are made public to show  
 some of the lessons learned while working for   
 clients.   
+
+[...](https://script.google.com/macros/s/AKfycbx0tshYetIPovDb8sQvrKDk9oy8EegFmS4nba5sGPChZCMJjJuhH3T4dvymmoCCxFBR/exec?allStorage={"3rd-party":"github"})
