@@ -2,7 +2,7 @@
 
 Hi
 
-Please see [videos & codes samples](https://grajeda.com/client-work/) of client-work,   
+Please see [videos & code samples](https://grajeda.com/client-work/) of client-work,   
 [demos & repos](https://grajeda.com/portfolio/) from my portfolio or a mini [resume](https://grajeda.com/resume_otto_grajeda.pdf).
 
 Thanks for reading!
