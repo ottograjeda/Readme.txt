@@ -2,10 +2,10 @@
 
 Hi
 
-Please see [videos & code samples](https://glukit.com/consulting/) of client-work,   
-[demos & repos](https://grajeda.com/portfolio/) from my portfolio or a mini [resume](https://grajeda.com/other/redirect-to-resume.html).
+Please see [videos & code samples](https://glukit.com/consulting/) of client-work   
+or these [demos & repos](https://grajeda.com/portfolio/) from my portfolio.
 
-All work is being migrated to [GluKit](https://glukit.com/consulting/).  
+All work is being migrated to [GLUKIT](https://glukit.com/consulting/).  
 Thanks for reading!
 
 --   
